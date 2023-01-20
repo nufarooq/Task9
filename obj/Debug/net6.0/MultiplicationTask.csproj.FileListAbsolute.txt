@@ -1,0 +1,15 @@
+D:\InductionTasks\MultiplicationTask\bin\Debug\net6.0\MultiplicationTask.exe
+D:\InductionTasks\MultiplicationTask\bin\Debug\net6.0\MultiplicationTask.deps.json
+D:\InductionTasks\MultiplicationTask\bin\Debug\net6.0\MultiplicationTask.runtimeconfig.json
+D:\InductionTasks\MultiplicationTask\bin\Debug\net6.0\MultiplicationTask.dll
+D:\InductionTasks\MultiplicationTask\bin\Debug\net6.0\MultiplicationTask.pdb
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\MultiplicationTask.csproj.AssemblyReference.cache
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\MultiplicationTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\MultiplicationTask.AssemblyInfoInputs.cache
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\MultiplicationTask.AssemblyInfo.cs
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\MultiplicationTask.csproj.CoreCompileInputs.cache
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\MultiplicationTask.dll
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\refint\MultiplicationTask.dll
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\MultiplicationTask.pdb
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\MultiplicationTask.genruntimeconfig.cache
+D:\InductionTasks\MultiplicationTask\obj\Debug\net6.0\ref\MultiplicationTask.dll
